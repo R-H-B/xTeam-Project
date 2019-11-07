@@ -14,4 +14,6 @@ Need to touch up GUI
 
 Basically this will add a new Class Client to the HashTable. The Client object will contain: First name, Last name, Account number(s) probably just saving and checking, Balance(s) again saving and checking, and Date of creation. The Output will just display all this info to the screen, the Input will be pre-created client objects. Originally this didn't handle creation of the client objects, I added an option but I think that it will be easier if we assume all the clients are already there.
 
+GOOGLE SLIDES EDIT LINK : https://docs.google.com/presentation/d/18Bfxw0kbqm-eoN79lvVo4gjJOuR4bcPSlsvVcyChnKc/edit?usp=sharing
+
 
