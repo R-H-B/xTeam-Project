@@ -3,6 +3,8 @@ Banking System
 
 Title: “XBanking”  
 
+Members: Harrison, Riza, Cameron, Roshan
+
 Problem: Banking can be hard. How do you let people access their accounts? What if they have multiple accounts? It can be hard to keep track. 
 
 Primary Stakeholder: Any bank who needs to manage a lot of accounts 
